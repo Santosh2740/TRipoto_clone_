@@ -1,6 +1,19 @@
 # Tripoto_unit_3_Project
-
+Tripoto is social travel platform to share and discover travel experiences, stories, community, tourism guides, hotels, holidays, getaways, attractions and ...
 <h1>Unit 3 Project </h1>
+## Tech Stack
+
+* HTML
+* CSS
+* Javascript - (DOM Manipulation, Local Storage)
+## Features
+
+- SignUp/Login
+- Landing page with carousels
+- Add to cart func with Add/Remove/Quantity option
+- Payment with applied coupon option
+
+## 🔗 Links
 
 <h3> Team Members </h3>
 
